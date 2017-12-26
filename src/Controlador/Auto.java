@@ -10,5 +10,5 @@ package Controlador;
  * @author oches_000
  */
 public class Auto {
-    
+    private int modelo;
 }
